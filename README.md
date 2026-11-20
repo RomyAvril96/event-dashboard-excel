@@ -4,7 +4,7 @@ An interactive Excel dashboard that analyses 300 events across 4 cities from 202
 
 ![Excel](https://img.shields.io/badge/Excel-dashboard-217346)
 
-![Event dashboard headline numbers: payment status, event status and revenue collection rate](images/event_summary.png)
+![Excel event management performance dashboard](images/event_summary.png)
 
 ## Overview
 
